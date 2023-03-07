@@ -45,8 +45,8 @@
 String server = "http://maker.ifttt.com";
 String eventName = "signal";
 
-String IFTTT_Key = "bgrPXRmUz8T72hq-HeNiMy";
-String IFTTTUrl = "http://maker.ifttt.com/trigger/signal/with/key/bgrPXRmUz8T72hq-HeNiMy";
+String IFTTT_Key = xxxx-xxxx-xxxx-xxxx;
+String IFTTTUrl = "http://maker.ifttt.com/trigger/signal/with/key/"+IFTTT_Key;
 
 
 
